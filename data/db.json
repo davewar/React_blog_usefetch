@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "What day is it!",
+      "author": "dave",
+      "id": 1
+    },
+    {
+      "title": "Good Luck",
+      "body": "What time is it!",
+      "author": "dave",
+      "id": 2
+    },
+    {
+      "title": "Hello world",
+      "body": "Its time",
+      "author": "bob",
+      "id": 3
+    }
+  ]
+}
